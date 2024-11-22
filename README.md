@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwajeet2103&label=Profile%20views&color=0e75b6&style=flat" alt="vishwajeet2103" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwajeet2103" alt="vishwajeet2103" /></a> </p>
-
 - 🔭 I’m currently working on [Mern-stack-real-estate-app](https://github.com/Vishwajeet2103/Mern-stack-estate-app)
 
 - 🌱 I’m currently learning **NextJS**
