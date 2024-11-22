@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Mern-stack-real-estate-app](https://github.com/Vishwajeet2103/Mern-stack-estate-app)
 
-- 💬 Ask me about **MongoDB,ExpressJS,ReactJS,Node.js**
+- 💬 Ask me about **MongoDB, ExpressJS, ReactJS, Node.js**
 
 - 📫 How to reach me **vd0619@srmist.edu.in**
 
