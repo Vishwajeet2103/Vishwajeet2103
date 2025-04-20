@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwajeet2103&label=Profile%20views&color=0e75b6&style=flat" alt="vishwajeet2103" /> </p>
 
-- 🔭 I’m currently working on [Mern-stack-real-estate-app](https://github.com/Vishwajeet2103/Mern-stack-estate-app)
-
 - 🌱 I’m currently learning **NextJS**
-
-- 🤝 I’m looking for help with [Mern-stack-real-estate-app](https://github.com/Vishwajeet2103/Mern-stack-estate-app)
 
 - 💬 Ask me about **MongoDB, ExpressJS, ReactJS, Node.js**
 
